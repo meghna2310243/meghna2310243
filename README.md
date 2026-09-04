@@ -12,6 +12,8 @@
 
 <br/>
 
+![](assets/divider.svg)
+
 ## About Me
 
 ```bash
@@ -27,7 +29,7 @@ $ whoami
 - 🧠 Independently researched **BERT-based models** for evaluating textual-statement correctness
 - 🤝 Organizing Committee, **SSN Invente** (annual tech fest) · Active member, **SSN Coding Club**
 
-<br/>
+![](assets/divider.svg)
 
 ## Tech Stack
 
@@ -62,19 +64,9 @@ $ whoami
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
+![](assets/divider.svg)
 
 ## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/meghna2310243/AgentConfigurator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meghna2310243&repo=AgentConfigurator&theme=tokyonight" /></a>
-<a href="https://github.com/meghna2310243/PayPact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meghna2310243&repo=PayPact&theme=tokyonight" /></a>
-
-<a href="https://github.com/meghna2310243/Banyan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meghna2310243&repo=Banyan&theme=tokyonight" /></a>
-<a href="https://github.com/meghna2310243/DB_Syncing_DebeziumKafka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meghna2310243&repo=DB_Syncing_DebeziumKafka&theme=tokyonight" /></a>
-
-</div>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -85,14 +77,9 @@ $ whoami
 | [ComplaintSystem](https://github.com/meghna2310243/ComplaintSystem) | Complaint registration & tracking system with an MVC architecture and audit trail | Java Servlets · MySQL |
 | [Recipie-Generator](https://github.com/meghna2310243/Recipie-Generator) | Recipe search by name, ingredient or nutritional content | Java |
 
-<br/>
+![](assets/divider.svg)
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meghna2310243&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghna2310243&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## GitHub Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=meghna2310243&theme=tokyonight&hide_border=true"/>
@@ -105,7 +92,7 @@ $ whoami
 </picture>
 </div>
 
-<br/>
+![](assets/divider.svg)
 
 ## Connect
 
